@@ -3,4 +3,4 @@ PHP script for Image Tagging based on Alchemyapi, Imagga, Rekognition ( image ta
 
 - http://www.alchemyapi.com/
 - http://imagga.com/
-- rekognition.com
+- http://rekognition.com
