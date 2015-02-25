@@ -1,7 +1,7 @@
 <?php
-require_once (dirname(__FILE__).'/alchemy/driver-alchemy.php');
-require_once (dirname(__FILE__).'/imagga/driver-imagga.php');
-require_once (dirname(__FILE__).'/rekognition/driver-rekognition.php');
+require_once (dirname(__FILE__).'/driver/driver-alchemy.php');
+require_once (dirname(__FILE__).'/driver/driver-imagga.php');
+require_once (dirname(__FILE__).'/driver/driver-rekognition.php');
 /* Version 0.1, 23 02 2015 - Salvatore Imparato ( https://github.com/semaxa )
 
 */
